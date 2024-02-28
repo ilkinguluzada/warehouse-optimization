@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Editor directories and files
+.idea
+.vscode
+*.swp
+*.swo
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Jest coverage directory
+coverage/
+
+# TypeScript compiled files
+*.js
+*.js.map
