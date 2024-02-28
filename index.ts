@@ -1,9 +1,9 @@
-interface Product {
+export interface Product {
     id: string
     warehouses: WarehouseDistance[]
 }
 
-interface WarehouseDistance {
+export interface WarehouseDistance {
     warehouseId: string
     distanceToCustomer: number
 }
