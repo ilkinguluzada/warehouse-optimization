@@ -21,22 +21,22 @@ To set up this project locally, follow these steps:
 2. **Navigate to project directory**:
    Change to the project directory:
 
-    ```bash
-       cd warehouse-optimization
-    ```
+```bash
+   cd warehouse-optimization
+```
 
 3. **Install dependencies:**:
    Install the required dependencies:
 
-    ```bash
-       npm install
-    ```
+```bash
+   npm install
+```
 
 4. **Run it:**:
 
-    ```bash
-       npm run start
-    ```
+```bash
+   npm run start
+```
 
 ## Running Tests
 
