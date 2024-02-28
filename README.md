@@ -14,28 +14,28 @@ To set up this project locally, follow these steps:
 1. **Clone the repository**:
    Open a terminal and run the following command to clone the repository:
 
-    ```bash
-       git clone https://github.com/ilkinguluzada/warehouse-optimization
-    ```
+```bash
+git clone https://github.com/ilkinguluzada/warehouse-optimization
+```
 
 2. **Navigate to project directory**:
    Change to the project directory:
 
 ```bash
-   cd warehouse-optimization
+cd warehouse-optimization
 ```
 
 3. **Install dependencies:**:
    Install the required dependencies:
 
 ```bash
-   npm install
+npm install
 ```
 
 4. **Run it:**:
 
 ```bash
-   npm run start
+npm run start
 ```
 
 ## Running Tests
